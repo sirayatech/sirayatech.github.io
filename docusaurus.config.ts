@@ -18,7 +18,7 @@ const config: Config = {
   organizationName: "sirayatech", // Usually your GitHub org/user name.
   projectName: "sirayatech.github.io", // Usually your repo name.
 
-  deploymentBranch: "main",
+  deploymentBranch: "deploy",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
