@@ -15,6 +15,7 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --white-color: #fff;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -28,3 +29,43 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Start Navbar */
+.navbar {
+  background-color: #222222;
+  height: 100px;
+}
+.navbar__inner {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: unset;
+}
+
+.navbar__logo {
+  height: unset;
+}
+
+.navbar__logo img {
+  height: 51px;
+}
+
+.navbar__link {
+  color: var(--white-color);
+  font-weight: 700;
+}
+/* End Navbar */
+
+
+/* Start Footer */
+.footer {
+  background-color: #222222;
+}
+
+.footer .container  {
+  max-width: 1450px;
+}
+
+.footer__col {
+  margin-left: 50px;
+}
+/* End Footer */
