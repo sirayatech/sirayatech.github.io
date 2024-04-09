@@ -3,12 +3,11 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool 1111",
+  title: "Siraya CDN documentation",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://sirayatech.github.io",
+  url: "https://support.sirayatech.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
