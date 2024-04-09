@@ -2,34 +2,34 @@
 sidebar_position: 3
 ---
 
-# Payment USDT
+# 支付USDT
 
 指导用户进行**USDT**支付
 
-# Step 1:
+# 步骤1,2: 
 
 ![Step 1 Image](./img/pay_usdt_1.png)
 
-# Step 2:
+# 步骤3:
 
 ![Step 2 Image](./img/pay_usdt_2.png)
 
-# Step 3:
+# 步骤4:
 
 ![Step 3 Image](./img/pay_usdt_3.png)
 
-# Step 4:
+# 步骤5,6:
 
 ![Step 4 Image](./img/pay_usdt_4.png)
 
-# Step 5:
+# 步骤7:
 
 ![Step 5 Image](./img/pay_usdt_5.png)
 
-# Step 6:
+# 步骤8:
 
 ![Step 6 Image](./img/pay_usdt_6.png)
 
-# Step 7:
+# 步骤9:
 
 ![Step 7 Image](./img/pay_usdt_7.png)

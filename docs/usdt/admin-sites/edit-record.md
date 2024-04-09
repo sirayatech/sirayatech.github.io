@@ -2,18 +2,18 @@
 sidebar_position: 2
 ---
 
-# Edit record
+# 编辑记录
 
-指导销售人员为用户创建 **USDT** 付款记录:
+我们可以编辑处于[开启]状态的记录——这些记录是用户尚未确认付款的记录。
 
-# Step 1:
+# 步骤1: 单击记录末尾的三点图标
 
 ![Step 1 Image](./img/edit_record_1.png)
 
-# Step 2:
+# 步骤2: 选择相应的选项
 
 ![Step 1 Image](./img/edit_record_2.png)
 
-# Step 3:
+# 步骤3: 更改信息并提交
 
 ![Step 1 Image](./img/edit_record_3.png)

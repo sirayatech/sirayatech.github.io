@@ -2,27 +2,20 @@
 sidebar_position: 1
 ---
 
-# Add new record
+# 添加新记录
 
-我们可以编辑处于[开启]状态的记录——这些记录是用户尚未确认付款的记录。:
+指导销售人员为用户创建 USDT 付款记录
 
-# Step 1: Navigation Menu
+# 步骤 1: 登录管理系统并选择相应选项卡
 
-First, navigate to the sidebar menu and click on the desired item to proceed.
+![Step 1 Image](./img/add_record_1.png)
 
-![Step 1 Image](./img/edit_record_1.png)
+# 步骤 2: 点击[请求付款]按钮
 
-# Step 2: Navigation Menu
+![Step 1 Image](./img/add_record_2.png)
 
-Second, click add new record.
+# 步骤 3: 输入信息并提交 t
 
-![Step 1 Image](./img/edit_record_2.png)
+![Step 1 Image](./img/add_record_3.png)
 
-# Step 3: Input
-
-Third, input.
-
-![Step 1 Image](./img/edit_record_3.png)
-
-After creating the record, it will be displayed on the user page.
 记录创建后，将显示在用户页面上。

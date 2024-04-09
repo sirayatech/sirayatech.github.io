@@ -2,18 +2,18 @@
 sidebar_position: 4
 ---
 
-# Delete
+# 删除记录
 
-除状态为“处理中”的记录外，其他记录均可删除。:
+除状态为“处理中”的记录外，其他记录均可删除。
 
-# Step 1:
+# 步骤1: 单击记录末尾的三点图标
 
 ![Step 1 Image](./img/delete_record_1.png)
 
-# Step 2:
+# 步骤2: 选择相应的选项
 
 ![Step 1 Image](./img/delete_record_2.png)
 
-# Step 3:
+# 步骤3: 确认删除
 
 ![Step 1 Image](./img/delete_record_3.png)
