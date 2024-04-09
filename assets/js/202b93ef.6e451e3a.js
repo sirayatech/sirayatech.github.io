@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksirayasupport=self.webpackChunksirayasupport||[]).push([[6500],{3980:t=>{t.exports=JSON.parse('{"title":"USDT","slug":"/category/usdt","permalink":"/docs/category/usdt","navigation":{"previous":{"title":"Tutorial Intro","permalink":"/docs/intro"},"next":{"title":"Admin sites","permalink":"/docs/category/admin-sites"}}}')}}]);
