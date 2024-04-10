@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://support.sirayatech.com/blog</id>
-    <title>Siraya CDN documentation Blog</title>
+    <title>Siraya CDN Documentation Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://support.sirayatech.com/blog"/>
-    <subtitle>Siraya CDN documentation Blog</subtitle>
+    <subtitle>Siraya CDN Documentation Blog</subtitle>
     <icon>https://support.sirayatech.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
