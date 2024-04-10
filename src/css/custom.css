@@ -75,3 +75,8 @@
   margin-left: 50px;
 }
 /* End Footer */
+
+
+.navbar__toggle svg {
+color: #fff
+}
