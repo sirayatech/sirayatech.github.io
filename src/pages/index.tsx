@@ -1,10 +1,8 @@
-import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import Heading from "@theme/Heading";
 import Layout from "@theme/Layout";
 import clsx from "clsx";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
-
 import styles from "./index.module.css";
 
 function HomepageHeader() {
@@ -12,11 +10,11 @@ function HomepageHeader() {
 
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
+      <div className={clsx("container", styles.container)}>
+        <Heading as="h1" className={clsx("hero__title", styles.hero__title)}>
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className={clsx("hero__subtitle")}>{siteConfig.tagline}</p>
         {/* <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -38,9 +36,9 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />"
     >
       <HomepageHeader />
-      {/* <main>
+      <main>
         <HomepageFeatures />
-      </main> */}
+      </main>
     </Layout>
   );
 }

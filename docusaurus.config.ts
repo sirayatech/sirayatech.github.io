@@ -72,67 +72,72 @@ const config: Config = {
         },
       ],
     },
-    footer: {
-      style: "dark",
-      logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
-      },
+    // footer: {
+    //   style: "dark",
+    //   logo: {
+    //     alt: "My Site Logo",
+    //     src: "img/logo.svg",
+    //   },
 
-      links: [
-        {
-          title: "Product Service",
-          items: [
-            {
-              label: "Web Performance",
-              to: "/",
-            },
-            {
-              label: "Web Security",
-              to: "/",
-            },
-            {
-              label: "Data Intelligence",
-              to: "/",
-            },
-            {
-              label: "Partner Network",
-              to: "/",
-            },
-          ],
-        },
-        {
-          title: "Service for All",
-          items: [
-            {
-              label: "Service for All",
-              href: "/",
-            },
-            {
-              label: "Partner Network",
-              href: "/",
-            },
-          ],
-        },
-        {
-          title: "About Siraya",
-          items: [
-            {
-              label: "Mission & Vision",
-              to: "/",
-            },
-            {
-              label: "Contact Sales",
-              href: "/",
-            },
-          ],
-        },
-      ],
-      copyright: `© Copyright 2021 Siraya All Rights Reserved.`,
-    },
+    //   links: [
+    //     {
+    //       title: "Product Service",
+    //       items: [
+    //         {
+    //           label: "Web Performance",
+    //           to: "/",
+    //         },
+    //         {
+    //           label: "Web Security",
+    //           to: "/",
+    //         },
+    //         {
+    //           label: "Data Intelligence",
+    //           to: "/",
+    //         },
+    //         {
+    //           label: "Partner Network",
+    //           to: "/",
+    //         },
+    //       ],
+    //     },
+    //     {
+    //       title: "Service for All",
+    //       items: [
+    //         {
+    //           label: "Service for All",
+    //           href: "/",
+    //         },
+    //         {
+    //           label: "Partner Network",
+    //           href: "/",
+    //         },
+    //       ],
+    //     },
+    //     {
+    //       title: "About Siraya",
+    //       items: [
+    //         {
+    //           label: "Mission & Vision",
+    //           to: "/",
+    //         },
+    //         {
+    //           label: "Contact Sales",
+    //           href: "/",
+    //         },
+    //       ],
+    //     },
+    //   ],
+    //   copyright: `© Copyright 2021 Siraya All Rights Reserved.`,
+    // },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    colorMode: {
+      defaultMode: "light",
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
     },
   } satisfies Preset.ThemeConfig,
 };

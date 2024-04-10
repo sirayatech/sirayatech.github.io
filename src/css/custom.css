@@ -28,12 +28,18 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-navbar-link-hover-color: #fff;
+
+}
+
+[data-theme='light'] {
+  --ifm-navbar-link-hover-color: #fff;
 }
 
 /* Start Navbar */
 .navbar {
   background-color: #222222;
-  height: 100px;
+  height: 80px;
 }
 .navbar__inner {
   max-width: 1450px;
