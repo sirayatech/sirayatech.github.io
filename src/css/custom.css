@@ -48,11 +48,19 @@
 }
 
 .navbar__logo {
-  height: unset;
+  display: flex;
+  align-items: center;
 }
 
 .navbar__logo img {
-  height: 51px;
+  height: 40px;
+}
+
+/* Mobile */
+@media (max-width: 599px) {
+  .navbar__logo img {
+    height: 30px;
+  }
 }
 
 .navbar__link {
