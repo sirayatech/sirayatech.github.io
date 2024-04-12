@@ -35,7 +35,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Performance Product",
-    Svg: require("@site/static/img/cdn.svg").default,
+    Svg: require("@site/static/img/performance.svg").default,
     description: (
       <>
         Monitor and measure website performance in real-time. It helps optimize
