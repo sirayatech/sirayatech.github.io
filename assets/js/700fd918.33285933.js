@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksirayasupport=self.webpackChunksirayasupport||[]).push([[306],{8395:a=>{a.exports=JSON.parse('{"title":"1. Admin site","slug":"/category/1-admin-site","permalink":"/docs/category/1-admin-site","navigation":{"next":{"title":"1.1 Company","permalink":"/docs/category/11-company"}}}')}}]);
