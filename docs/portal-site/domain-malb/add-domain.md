@@ -8,7 +8,7 @@ When the account is associated with the control group corresponding to the servi
 
 # Step 1
 
-Hover on "CDN" part and select service.
+Hover on the "CDN" part and select the service.
 
 ![Step 1 Image](./img/add1.png)
 

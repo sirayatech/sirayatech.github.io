@@ -9,7 +9,7 @@ sidebar_position: 3
 
 # Step 1
 
-Hover on "CDN" part and select service.
+Hover on the "CDN" part and select the service.
 
 ![Step 1 Image](./img/view_1.png)
 

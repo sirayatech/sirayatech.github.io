@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 1.2.3 View detail
+# 1.8.3 View detail
 
 You can view details of all records. The detailed information displayed when viewing records in different states will be different.
 

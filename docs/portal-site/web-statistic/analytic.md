@@ -2,34 +2,31 @@
 sidebar_position: 1
 ---
 
-# 2.4.1 analytics
+# 2.5.1 Analytics
 
-Users can view the amount of data used according to the domain
+Users can view the amount of data used according to the domain. Depending on the type of service, there will be corresponding charts.
 
-Depending on the type of service, there will be corresponding charts
 The data types that can be viewed are:
-Bandwidth
-Traffic
-Cache Ratio
-Request
-HTTP Code Status
-China Bandwidth
-Unique Visitors
-IP
+Bandwidth,
+Traffic,
+Cache Ratio,
+Request,
+HTTP Code Status,
+China Bandwidth,
+Unique Visitors,
+IP.
 
-On the portal, charts can be viewed via an administrator account or a user account
+# Step 1
 
-Filter and view charts
-
-# Step 1:
+Hover on the "CDN" part and select the service.
 
 ![Step 1 Image](./img/img1.png)
 
-# Step 2:
+# Step 2
 
 ![Step 2 Image](./img/img2.png)
 
-# Step 3:
+# Step 3
 
 Select type data you want to view by clicking on the corresponding tab, example: Bandwidth/ Traffic.
 

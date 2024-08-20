@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 1.2.1 Add new record
+# 1.8.1 Add new record
 
 Instruct to create USDT payment records for users
 

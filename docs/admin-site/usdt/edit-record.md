@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 1.2.2 Edit record
+# 1.8.2 Edit record
 
 We can edit records that are in the [Open] state - these are records where the user has not yet confirmed payment.
 

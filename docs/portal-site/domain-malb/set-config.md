@@ -6,15 +6,15 @@ sidebar_position: 3
 
 You can set configuration for each domain. There are 2 types of configuration you can set: Basic Anti-Hotlinking and Timestamp Anti-Hotlinking (Live)
 
-# Step 1:
+# Step 1
 
 ![Step 1 Image](./img/set1.png)
 
-# Step 2:
+# Step 2
 
 ![Step 2 Image](./img/set2.png)
 
-# Step 3:
+# Step 3
 
 **With Basic Anti-Hotlinking:**
 

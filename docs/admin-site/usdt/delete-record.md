@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 1.2.4 Delete record
+# 1.8.4 Delete record
 
 Except for records with a status of "Processing", other records can be deleted.
 

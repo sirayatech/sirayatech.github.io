@@ -4,11 +4,11 @@ sidebar_position: 4
 
 # 2.4.3.1 Set Anti-Hotlinking
 
-# Step 1:
+# Step 1
 
 ![Step 1 Image](./img-set/set1.png)
 
-# Step 2:
+# Step 2
 
 Find type of  Anti-Hotlinking you want to set. There are 3 types of  Anti-Hotlinking: Referer, IP and UA.
 

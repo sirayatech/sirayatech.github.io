@@ -8,17 +8,17 @@ When the account is associated with the control group corresponding to the servi
 
 Flood Shield (FS), Content Acceleration (CA), Dynamic Web Acceleration (DWA) and Media Acceleration (MA) domains have same form to add domain.
 
-# Step 1:
+# Step 1
 
-Hover on "CDN" part and select service.
+Hover on the "CDN" part and select the service.
 
 ![Step 1 Image](./img/add1.png)
 
-# Step 2:
+# Step 2
 
 ![Step 2 Image](./img/add2.png)
 
-# Step 3:
+# Step 3
 
 Fill full data and submit
 
