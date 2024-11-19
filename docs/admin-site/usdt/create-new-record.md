@@ -6,6 +6,8 @@ sidebar_position: 1
 The root account use this feature to create payment notifications for the admin account.
 Instruct to create USDT payment records
 
+Instruct to create USDT payment records for users
+
 # Step 1
 Log in to the management system and select the appropriate tab
 

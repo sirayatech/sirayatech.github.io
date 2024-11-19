@@ -3,12 +3,11 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool 1111",
+  title: "Siraya CDN Documentation",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://sirayatech.github.io",
+  url: "https://support.sirayatech.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -18,7 +17,7 @@ const config: Config = {
   organizationName: "sirayatech", // Usually your GitHub org/user name.
   projectName: "sirayatech.github.io", // Usually your repo name.
 
-  deploymentBranch: "main",
+  deploymentBranch: "deploy",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -37,6 +36,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
+          sidebarCollapsed: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -58,7 +58,6 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
     navbar: {
       logo: {
         alt: "My Site Logo",
@@ -71,75 +70,16 @@ const config: Config = {
           position: "right",
           label: "Tutorial",
         },
-        { to: "/blog", label: "Blog", position: "right" },
-        {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
-          position: "right",
-        },
       ],
-    },
-    footer: {
-      style: "dark",
-      logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
-      },
-
-      links: [
-        {
-          title: "Product Service",
-          items: [
-            {
-              label: "Web Performance",
-              to: "/",
-            },
-            {
-              label: "Web Security",
-              to: "/",
-            },
-            {
-              label: "Data Intelligence",
-              to: "/",
-            },
-            {
-              label: "Partner Network",
-              to: "/",
-            },
-          ],
-        },
-        {
-          title: "Service for All",
-          items: [
-            {
-              label: "Service for All",
-              href: "/",
-            },
-            {
-              label: "Partner Network",
-              href: "/",
-            },
-          ],
-        },
-        {
-          title: "About Siraya",
-          items: [
-            {
-              label: "Mission & Vision",
-              to: "/",
-            },
-            {
-              label: "Contact Sales",
-              href: "/",
-            },
-          ],
-        },
-      ],
-      copyright: `© Copyright 2021 Siraya All Rights Reserved.`,
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    colorMode: {
+      defaultMode: "light",
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
     },
   } satisfies Preset.ThemeConfig,
 };

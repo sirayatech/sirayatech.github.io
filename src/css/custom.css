@@ -16,6 +16,7 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --white-color: #fff;
+  --doc-sidebar-width: 320px !important;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -28,12 +29,18 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-navbar-link-hover-color: #fff;
+
+}
+
+[data-theme='light'] {
+  --ifm-navbar-link-hover-color: #fff;
 }
 
 /* Start Navbar */
 .navbar {
   background-color: #222222;
-  height: 100px;
+  height: 80px;
 }
 .navbar__inner {
   max-width: 1450px;
@@ -42,11 +49,19 @@
 }
 
 .navbar__logo {
-  height: unset;
+  display: flex;
+  align-items: center;
 }
 
 .navbar__logo img {
-  height: 51px;
+  height: 40px;
+}
+
+/* Mobile */
+@media (max-width: 599px) {
+  .navbar__logo img {
+    height: 30px;
+  }
 }
 
 .navbar__link {
@@ -69,3 +84,8 @@
   margin-left: 50px;
 }
 /* End Footer */
+
+
+.navbar__toggle svg {
+color: #fff
+}

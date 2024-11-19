@@ -17,4 +17,5 @@ An admin account has higher privileges than a user account. It can manage the us
 
 ![Step 1 Image](./img/create-3.png)
 
+You (root account) can create admin accounts or user accounts.
 After creating a new account, a mail will be sent to both you and the new account you have just created.
