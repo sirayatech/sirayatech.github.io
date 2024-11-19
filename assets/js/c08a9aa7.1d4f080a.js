@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksirayasupport=self.webpackChunksirayasupport||[]).push([[7265],{99856:t=>{t.exports=JSON.parse('{"title":"1. The site for root account","slug":"/category/1-the-site-for-root-account","permalink":"/docs/category/1-the-site-for-root-account","navigation":{"next":{"title":"1.1 Company","permalink":"/docs/category/11-company"}}}')}}]);
