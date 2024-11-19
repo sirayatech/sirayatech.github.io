@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 # 1.4.1 Create user
+Root account has highest privileges, can create admin accounts or user accounts.
+An admin account has higher privileges than a user account. It can manage the user accounts that belong to it.
 
 # Step 1
 

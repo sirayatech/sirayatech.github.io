@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-# 2.9.4 Unassociate control group 
+# 2.5.4 Unassociate control group 
 
 # Step 1
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 ---
-# 2.9.6 Delete user
+# 2.5.6 Delete user
 
 # Step 1
 

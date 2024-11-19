@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# 2.9.2 Edit user
+# 2.5.2 Edit user
 
 # Step 1
 

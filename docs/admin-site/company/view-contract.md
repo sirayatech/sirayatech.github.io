@@ -2,6 +2,7 @@
 sidebar_position: 2
 ---
 # 1.1.2 View contract
+Each company's contract information in Hubspot is also synced, so you can view it by following the steps below
 
 # Step 1
 

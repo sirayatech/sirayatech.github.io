@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 ---
-# 2.9.3 Associate control group 
+# 2.5.3 Associate control group 
 
 # Step 1
 
